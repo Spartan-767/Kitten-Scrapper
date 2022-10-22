@@ -4,8 +4,7 @@ Web Scrapper with extra flare
   More updates coming soon
 
 Details:
-
-Cool windows and linux compatible web scraper tool
+- Cool windows and linux compatible web scraper tool
 
 
 Requirements: 
@@ -20,5 +19,4 @@ Directions:
 
 
 Video Tutorial:
-
-Coming Soon
+- Coming Soon
