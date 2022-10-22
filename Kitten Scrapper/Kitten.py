@@ -12,12 +12,12 @@ def restart_program():
 ##############################
 
 # OS Check ####################
-def OSCheck():
-    if os.name == "nt":
-      os.system("cls")
-
-    else:
-      os.system("clear")
+# def OSCheck():
+#    if os.name == "nt":
+#      os.system("cls")
+#
+#    else:
+#      os.system("clear")
 ##############################
 
 # Loading Bar ####################
