@@ -1,4 +1,4 @@
-# Kitten-Scrapper
+# Kitten-Scraper
 Web Scrapper with extra flare
 - Coded by Spartan from ATech Labs.
   More updates coming soon
